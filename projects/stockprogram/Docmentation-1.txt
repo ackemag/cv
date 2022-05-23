@@ -1,0 +1,18 @@
+
+För att kunna köra programmet behöver man pip installera biblioteket för mitt program i cmd.
+
+
+
+Här är länkar till olika delar av mitt bibliotek för Stockprogram.py
+
+pandas = https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+yfinanace = https://pypi.org/project/yfinance/
+yahoo_fin = http://theautomatic.net/yahoo_fin-documentation/
+numpy = https://numpy.org/devdocs/
+xlrd = https://xlrd.readthedocs.io/en/latest/
+sys = https://docs.python.org/3/library/sys.html
+os = https://docs.python.org/3/library/os.html
+
+
+Eventuella metoder är tagna från dessa länkar och deras dokumentation
+
