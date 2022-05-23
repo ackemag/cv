@@ -1,5 +1,1 @@
-# Ska fixa till den här senare, målet är att allt ska  vara klart  2025/26
-
-# Alla kaggle certificates
-# Alla  MATLAB certificates
-# Minst ett eget project uppladdat
+#Hello! My name is Axel Magnusson and this repository contains all relevant information, certificates and projects of me. Please look around!
